@@ -22,8 +22,8 @@ This Python script serves as a **secure password generator** and **strength anal
 ## **Installation**
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/password-security-tool.git
-cd password-security-tool
+git clone https://github.com/minaramez/Password-Generator-Strength-Checker.git
+cd Password-Generator-Strength-Checker
 ```
 
 Ensure the script has execute permissions:
